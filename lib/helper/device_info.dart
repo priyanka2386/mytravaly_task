@@ -15,7 +15,7 @@ class DeviceInfoHelper {
         "deviceName": androidInfo.device ?? "unknown",
         "deviceManufacturer": androidInfo.manufacturer ?? "unknown",
         "deviceProduct": androidInfo.product ?? "unknown",
-        "deviceSerialNumber": androidInfo.serialNumber ?? "unknown",
+        "deviceSerialNumber": "unknown",
       };
     } else if (Platform.isIOS) {
       final iosInfo = await deviceInfo.iosInfo;

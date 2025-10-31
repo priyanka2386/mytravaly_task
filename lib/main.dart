@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:mytravaly_task/pages/home_page.dart';
 import 'pages/login_page.dart';
 
-void main() {
+void main() async{
+  WidgetsFlutterBinding.ensureInitialized();
   runApp(MyTravalyApp());
 }
 
