@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1004261070577",
+    "project_id": "mytravaly-task",
+    "storage_bucket": "mytravaly-task.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004261070577:android:8fa2a07611eb6618d23b50",
+        "android_client_info": {
+          "package_name": "com.example.mytravaly_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004261070577-mem7ds9mhcn0isue5gvdvpen8i04h47k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mytravaly_task",
+            "certificate_hash": "de4e3027da2ee284467d686d5a270613f6fd278b"
+          }
+        },
+        {
+          "client_id": "1004261070577-8l544gdfst3ocq0v6ab345dqmbj93hib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPJF_u3oLXTzveworJvwytphlntsdKQno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004261070577-8l544gdfst3ocq0v6ab345dqmbj93hib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
